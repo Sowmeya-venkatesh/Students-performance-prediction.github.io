@@ -52,8 +52,8 @@ To replicate this project, you'll need to install the following Python modules:
 
 In this project, we achieved an accuracy rate of approximately 81% for Logistic Regression and an impressive 84% for Support Vector Machine on a dataset with dimensions of 395x31.
 
-  ##Logistic Regression Accuracy: 81%
-  ##Support Vector Machine Accuracy: 84%
+  ## Logistic Regression Accuracy: 81%
+  ## Support Vector Machine Accuracy: 84%
 
 ## Conclusion
 
